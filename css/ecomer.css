@@ -1,0 +1,22 @@
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#targeta {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    border: solid 1px black;
+    width: 15%;
+    height: 38vh;
+    margin: 10px;
+}
+
+#imagenProducto {
+    padding-top: 5px;
+    width: 20%;
+    height: 20%;
+}
